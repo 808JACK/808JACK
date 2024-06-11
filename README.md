@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarthak Currently a student in 3rd year I am looking forward to learn new new things daily 
 - 👀 I’m Currently learning about data science feild
 - 🤞 I'm also learning DSA ,and upskilling in it  
-- 🌱 I’m currently learning about  ML & AI also some libraries 
+- 📱www.linkedin.com/in/sarthak-behare-118162257 can connect with me on Linkdin
 
 
 <!---
