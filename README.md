@@ -16,6 +16,3 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpzdjFsOXR5YzlndGljMHE5dTl0ZH
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=808jack&show_icons=true&locale=en&layout=compact" alt="808jack" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=808jack&show_icons=true&locale=en" alt="808jack" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=808jack&show_icons=true&locale=en" alt="808jack" /></p>
