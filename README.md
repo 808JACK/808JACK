@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SARTHAK</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
-<img class="align-right" alt="Coding" width="400" 
+
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=808jack&label=Profile%20views&color=0e75b6&style=flat" alt="808jack" /> </p>
