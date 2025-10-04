@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=808jack&label=Profile%20views&color=0e75b6&style=flat" alt="808jack" /> </p>
 
-- 🔭 I’m currently working on **Project Hendrix**
+- 🔭 I’m currently working on **Backend development**
 
 - 📫 How to reach me **sarthakbehare6877@gmail.com**
 
