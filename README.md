@@ -1,18 +1,92 @@
-<h1 align="center">Hi 👋, I'm SARTHAK</h1>
-<h3 align="center">A Tech Enthusiast from India</h3>
+<div align="center">
+  <h1>Hey there! 👋 I'm Sarthak</h1>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=808jack&label=Profile%20views&color=0e75b6&style=flat" alt="808jack" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **Backend development**
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** with expertise in building scalable web applications and distributed systems. I love creating innovative solutions that solve real-world problems and have a keen interest in collaborative coding platforms, microservices architecture, and AI/ML technologies.
 
-- 📫 How to reach me **sarthakbehare6877@gmail.com**
+- 🔭 Currently working on **IntelliJ IDEA Plugin** - Enhancing developer productivity
+- 🌱 Always learning new technologies and best practices
+- 💡 Passionate about clean code, system design, and user experience
+- 🎯 Goal: Building impactful software that makes developers' lives easier
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-behare-118162257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-behare-118162257" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarthak808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak808" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthakbehare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthakbehare" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💻 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,mysql" />
+</div>
+
+---
+
+## 🎨 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind" />
+</div>
+
+---
+
+## ⚙️ Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</div>
+
+---
+
+## 🛠️ Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react" />
+</div>
+
+---
+
+## 🤖 AI/ML & Data Science
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,python" />
+</div>
+
+**Libraries:** Pandas • NumPy • Matplotlib • Seaborn
+
+---
+
+## 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,cassandra" />
+</div>
+
+**Cloud DBs:** Supabase • Neon • DataStax Astra
+
+---
+
+## ☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
+</div>
+
+---
+
+## 🛠️ Tools & IDEs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,postman,figma,git,github" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-behare-118162257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sarthak-dev-profile.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakcloud33@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=808JACK&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
